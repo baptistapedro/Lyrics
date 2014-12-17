@@ -8,7 +8,7 @@ from twisted.protocols import basic
 from twisted.internet import reactor
 
 
-# this must be in the end when have the artist and music names
+
 def _audio_player(f):
     """ Use pygame to simulate an audio player """
     os.environ['SDL_VIDEODRIVER'] = "dummy"
