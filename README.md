@@ -1,5 +1,7 @@
 Lyrics
 ======
 
-Write the words you hear while playing a song and you'll know how many are right at the end.
-Learn English exercise.
+Write song's lyrics while it's playing.
+"Learn English exercise - tool".
+
+NEED TO REFACTOR THIS CODE. 
